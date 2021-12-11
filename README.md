@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Preview
+
+![preview image](https://raw.githubusercontent.com/victorcmarinho/Calculadora-Flutter/main/images/preview.png)
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
